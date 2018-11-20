@@ -4,6 +4,8 @@ server:
 eureka:
   instance:
     hostname: localhost
+  server:
+    wait-time-in-ms-when-sync-empty: 5
   client:
     registerWithEureka: false
     fetchRegistry: false
