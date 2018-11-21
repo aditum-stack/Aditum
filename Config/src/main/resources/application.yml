@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/forezp/SpringcloudConfig/
+          uri: https://github.com/kevinten10/Aditum-Config/
           search-paths: respo
           username:
           passphrase:
