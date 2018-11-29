@@ -1,23 +1,38 @@
-# Aditum
+<p align="center">
+  <img src="https://github.com/kevinten10/Air/blob/master/Air.png" style="height:200px"/>
+</p>
 
-Spring Cloud Center for Aditum Project
+# Aditum - community access control big data analysis system based on distributed architecture
 
-> community access control big data analysis system based on distributed architecture
+<p align="center">
+  <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license"/>
+</p>
 
----------------------------------------
+## Introduction
 
-## Eureka 服务发现中心
+community access control big data analysis system based on distributed architecture
 
-ip : localhost
+## Technology Stack
 
-port : 10001
 
----------------------------------------
+## Projects
 
-## Config 服务配置中心
 
-ip : localhost
+## Architecture
 
-port : 10002
+<p align="center">
+  <img src="https://github.com/kevinten10/Aditum/blob/master/微服务架构.JPG" />
+</p>
+<p align="center">
+  <img src="https://github.com/kevinten10/Aditum/blob/master/大数据平台架构.JPG" />
+</p>
+<p align="center">
+  <img src="https://github.com/kevinten10/Aditum/blob/master/微服务运行流程.JPG" />
+</p>
 
----------------------------------------
+## License
+
+Copyright (c) 2018-present kevinten10
+
+
+
