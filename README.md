@@ -30,6 +30,24 @@ community access control big data analysis system based on distributed architect
   <img src="https://github.com/kevinten10/Aditum/blob/master/微服务运行流程.JPG" />
 </p>
 
+## Service
+
+<p align="center">
+  <img src="https://github.com/kevinten10/Aditum/blob/master/Mocker.PNG" />
+</p>
+<p align="center">
+  <img src="https://github.com/kevinten10/Aditum/blob/master/Collector.PNG" />
+</p>
+<p align="center">
+  <img src="https://github.com/kevinten10/Aditum/blob/master/Logger.PNG" />
+</p>
+<p align="center">
+  <img src="https://github.com/kevinten10/Aditum/blob/master/Statistics.PNG" />
+</p>
+<p align="center">
+  <img src="https://github.com/kevinten10/Aditum/blob/master/Personas.PNG" />
+</p>
+
 ## License
 
 Copyright (c) 2018-present kevinten10
