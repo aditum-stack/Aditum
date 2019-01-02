@@ -14,11 +14,14 @@ community access control big data analysis system based on distributed architect
 
 ## Technology Stack
 
-####基础设施分析
-
-拟将采用3台物理服务器搭建分布式环境或采用本地伪分布式环境，操作系统采用Linux(centos环境)，数据库采用MySQL，HBASE，以及MongoDB。
-基于Hadoop搭建HDFS分布式文件系统，并通过HTTP协议/RESTful风格进行服务间通信。
-
+#### 基础设施分析
+ 
+1. 服务器基于Linux(centos)系统。
+2. 通过容器技术部署微服务。
+3. 数据库采用MySQL，HBASE，以及MongoDB。
+4. 基于Hadoop搭建HDFS分布式文件系统。
+5. 通过REST HTTP协议进行服务间通信。
+ 
 #### 开发语言
 
 使用Java语言进行主要微服务的构架，以及Hadoop相关框架的开发。
@@ -75,11 +78,37 @@ community access control big data analysis system based on distributed architect
   <img src="https://github.com/kevinten10/Aditum/blob/master/Aditum流程图/Mocker.PNG" />
 </p>
 
+    拟采用编程语言：Java
+    
+    主要技术分析：
+    
+    Quartz定时调度框架
+    
+    多线程调度
+    
+    确保数据合理性
+    
+    生成模拟数据库
+    
+    生成模拟日志
+
 #### Collector
 
 <p align="center">
   <img src="https://github.com/kevinten10/Aditum/blob/master/Aditum流程图/Collector.PNG" />
 </p>
+
+    拟采用编程语言：Java
+    
+    主要技术分析：
+    
+    Flume日志聚合
+    
+    Kafka消息队列
+    
+    HDFS分布式文件系统
+    
+    HBASE分布式数据库
 
 #### Logger
 
@@ -87,17 +116,51 @@ community access control big data analysis system based on distributed architect
   <img src="https://github.com/kevinten10/Aditum/blob/master/Aditum流程图/Logger.PNG" />
 </p>
 
+    拟采用编程语言：Java
+    
+    主要技术分析：
+    
+    日志清洗规则建模
+    
+    数据匹配工具
+    
+    Kafka消息队列消费
+
 #### Statistics
 
 <p align="center">
   <img src="https://github.com/kevinten10/Aditum/blob/master/Aditum流程图/Statistics.PNG" />
 </p>
 
+    拟采用编程语言：Scala
+    
+    主要技术分析：
+    
+    Spark计算引擎编程
+    
+    Spark多任务调度
+    
+    RDD弹性数据集处理
+    
+    数据结构化建模
+
 #### Personas
 
 <p align="center">
   <img src="https://github.com/kevinten10/Aditum/blob/master/Aditum流程图/Personas.PNG" />
 </p>
+
+    拟采用编程语言：Python
+    
+    主要技术分析：
+    
+    k-means聚类算法
+    
+    用户画像标签建模
+    
+    python多线程调度
+    
+    MongoDB数据库存储
 
 ## License
 
