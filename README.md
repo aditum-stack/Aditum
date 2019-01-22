@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kevinten10/Aditum/blob/master/logo.png" style="height:200px"/>
+  <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/logo.png" style="height:200px"/>
 </p>
 
 # Aditum - community access control big data analysis system based on distributed architecture
@@ -55,13 +55,13 @@ community access control big data analysis system based on distributed architect
 #### Aditum微服务架构
 
 <p align="center">
-  <img src="https://github.com/kevinten10/Aditum/blob/master/微服务架构.JPG" />
+  <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/微服务架构.JPG" />
 </p>
 
 #### Aditum大数据平台架构
 
 <p align="center">
-  <img src="https://github.com/kevinten10/Aditum/blob/master/大数据平台架构.JPG" />
+  <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/大数据平台架构.JPG" />
 </p>
 
 ## Service
@@ -69,13 +69,13 @@ community access control big data analysis system based on distributed architect
 #### Aditum微服务运行流程
 
 <p align="center">
-  <img src="https://github.com/kevinten10/Aditum/blob/master/微服务运行流程.JPG" />
+  <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/微服务运行流程.JPG" />
 </p>
 
 #### Mocker
 
 <p align="center">
-  <img src="https://github.com/kevinten10/Aditum/blob/master/Aditum流程图/Mocker.PNG" />
+  <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/Aditum流程图/Mocker.PNG" />
 </p>
 
     拟采用编程语言：Java
@@ -95,7 +95,7 @@ community access control big data analysis system based on distributed architect
 #### Collector
 
 <p align="center">
-  <img src="https://github.com/kevinten10/Aditum/blob/master/Aditum流程图/Collector.PNG" />
+  <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/Aditum流程图/Collector.PNG" />
 </p>
 
     拟采用编程语言：Java
@@ -113,7 +113,7 @@ community access control big data analysis system based on distributed architect
 #### Logger
 
 <p align="center">
-  <img src="https://github.com/kevinten10/Aditum/blob/master/Aditum流程图/Logger.PNG" />
+  <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/Aditum流程图/Logger.PNG" />
 </p>
 
     拟采用编程语言：Java
@@ -129,7 +129,7 @@ community access control big data analysis system based on distributed architect
 #### Statistics
 
 <p align="center">
-  <img src="https://github.com/kevinten10/Aditum/blob/master/Aditum流程图/Statistics.PNG" />
+  <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/Aditum流程图/Statistics.PNG" />
 </p>
 
     拟采用编程语言：Scala
@@ -147,7 +147,7 @@ community access control big data analysis system based on distributed architect
 #### Personas
 
 <p align="center">
-  <img src="https://github.com/kevinten10/Aditum/blob/master/Aditum流程图/Personas.PNG" />
+  <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/Aditum流程图/Personas.PNG" />
 </p>
 
     拟采用编程语言：Python

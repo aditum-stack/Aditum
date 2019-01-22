@@ -1,0 +1,30 @@
+[submodule "aditum-personas"]
+	path = aditum-personas
+	url = https://github.com/kevinten10/Aditum-Personas.git
+[submodule "aditum-golang"]
+	path = aditum-golang
+	url = https://github.com/kevinten10/Aditum-Golang.git
+[submodule "aditum-cloud"]
+	path = aditum-cloud
+	url = https://github.com/kevinten10/Aditum-Cloud.git
+[submodule "aditum-config"]
+	path = aditum-config
+	url = https://github.com/kevinten10/Aditum-Config.git
+[submodule "aditum-back"]
+	path = aditum-back
+	url = https://github.com/kevinten10/Aditum-Back.git
+[submodule "aditum-collector"]
+	path = aditum-collector
+	url = https://github.com/kevinten10/Aditum-Collector.git
+[submodule "aditum-mocker"]
+	path = aditum-mocker
+	url = https://github.com/kevinten10/Aditum-Mocker.git
+[submodule "aditum-logger"]
+	path = aditum-logger
+	url = https://github.com/kevinten10/Aditum-Logger.git
+[submodule "aditum-web"]
+	path = aditum-web
+	url = https://github.com/kevinten10/Aditum-Web.git
+[submodule "aditum-statistics"]
+	path = aditum-statistics
+	url = https://github.com/kevinten10/Aditum-Statistics.git

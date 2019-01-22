@@ -8,9 +8,9 @@
 
 预计需要以下镜像和容器：
 
-![镜像](docker/docker镜像.png)
+![镜像](../docker/docker镜像.png)
 
-![容器](docker/docker容器.png)
+![容器](../docker/docker容器.png)
 
 ### Docker常用命令
 
@@ -73,7 +73,7 @@ docker stop 容器名 #关闭启动的容器
 
 4. 下载三个包的相关dockerfile，并修改其中的版本信息
 
-**以上内容全部在[docker/apollo](docker/apollo)中**
+**以上内容全部在[docker/apollo](../docker/apollo)中**
 
 5. 将三个包上传到服务器，每个包包含一个zip和一个dockerfile
 
