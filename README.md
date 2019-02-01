@@ -5,6 +5,12 @@
 # Aditum - community access control big data analysis system based on distributed architecture
 
 <p align="center">
+  <img src="https://img.shields.io/badge/build-passing-green.svg" alt="license"/>
+  <img src="https://img.shields.io/badge/language-python-lightgrey.svg" alt="license"/>
+  <img src="https://img.shields.io/badge/language-golang-yellow.svg" alt="license"/>
+  <img src="https://img.shields.io/badge/language-scala-orange.svg" alt="license"/>
+  <img src="https://img.shields.io/badge/language-java-red.svg" alt="license"/>
+  <img src="https://img.shields.io/badge/release-v1.0.0-blue.svg" alt="license"/>
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license"/>
 </p>
 
