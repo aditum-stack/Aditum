@@ -2,7 +2,11 @@
 *.less linguist-language=python
 *.js linguist-language=golang
 *.html linguist-language=golang
-*.sql linguist-language=java
-*.png linguist-language=java
-*.jpg linguist-language=scala
-*.md linguist-language=scala
+*.sql linguist-language=scala
+*.png linguist-language=scala
+*.jpg linguist-language=java
+*.md linguist-language=java
+Dockerfile linguist-language=python
+.gitignore linguist-language=python
+.gitattributes linguist-language=golang
+.gitmodules linguist-language=golang
