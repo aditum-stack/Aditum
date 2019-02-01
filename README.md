@@ -2,7 +2,7 @@
   <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/logo.png" style="height:200px"/>
 </p>
 
-# Aditum - community access control big data analysis system based on distributed architecture
+# Aditum - community access control big data analysis system based on distributed architecture. 门禁访问大数据分析平台. 
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-green.svg" alt="license"/>
@@ -84,19 +84,19 @@ community access control big data analysis system based on distributed architect
   <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/Aditum流程图/Mocker.PNG" />
 </p>
 
-    拟采用编程语言：Java
+#### 拟采用编程语言：Java
     
-    主要技术分析：
+#### 主要技术分析：
     
-    Quartz定时调度框架
+   Quartz定时调度框架
     
-    多线程调度
+   多线程调度
     
-    确保数据合理性
+   确保数据合理性
     
-    生成模拟数据库
+   生成模拟数据库
     
-    生成模拟日志
+   生成模拟日志
 
 #### Collector
 
@@ -104,17 +104,17 @@ community access control big data analysis system based on distributed architect
   <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/Aditum流程图/Collector.PNG" />
 </p>
 
-    拟采用编程语言：Java
+#### 拟采用编程语言：Java
     
-    主要技术分析：
+#### 主要技术分析：
     
-    Flume日志聚合
+   Flume日志聚合
     
-    Kafka消息队列
+   Kafka消息队列
     
-    HDFS分布式文件系统
+   HDFS分布式文件系统
     
-    HBASE分布式数据库
+   HBASE分布式数据库
 
 #### Logger
 
@@ -122,15 +122,15 @@ community access control big data analysis system based on distributed architect
   <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/Aditum流程图/Logger.PNG" />
 </p>
 
-    拟采用编程语言：Java
+#### 拟采用编程语言：Java
     
-    主要技术分析：
+#### 主要技术分析：
     
-    日志清洗规则建模
+   日志清洗规则建模
     
-    数据匹配工具
-    
-    Kafka消息队列消费
+   数据匹配工具
+   
+   Kafka消息队列消费
 
 #### Statistics
 
@@ -138,17 +138,17 @@ community access control big data analysis system based on distributed architect
   <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/Aditum流程图/Statistics.PNG" />
 </p>
 
-    拟采用编程语言：Scala
+#### 拟采用编程语言：Scala
     
-    主要技术分析：
+#### 主要技术分析：
     
-    Spark计算引擎编程
+   Spark计算引擎编程
     
-    Spark多任务调度
+   Spark多任务调度
     
-    RDD弹性数据集处理
+   RDD弹性数据集处理
     
-    数据结构化建模
+   数据结构化建模
 
 #### Personas
 
@@ -156,17 +156,17 @@ community access control big data analysis system based on distributed architect
   <img src="https://github.com/kevinten10/Aditum/blob/master/aditum-doc/Aditum流程图/Personas.PNG" />
 </p>
 
-    拟采用编程语言：Python
+#### 拟采用编程语言：Python
     
-    主要技术分析：
+#### 主要技术分析：
     
-    k-means聚类算法
+   k-means聚类算法
     
-    用户画像标签建模
+   用户画像标签建模
     
-    python多线程调度
+   python多线程调度
     
-    MongoDB数据库存储
+   MongoDB数据库存储
 
 ## License
 
